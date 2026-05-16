@@ -1,8 +1,7 @@
 # Ariyaman Debnath
 
 **Full-Stack Engineer** — TypeScript, distributed systems, edge infrastructure.
-
-I'm a self-taught developer from Agartala, India. I build full-stack systems end-to-end — from Terraform infra to edge workers to React UIs. I care about architecture, not just making things work.
+I build full-stack systems end-to-end — from Terraform infra to edge workers to React UIs. I care about architecture, not just making things work.
 
 &nbsp;
 
