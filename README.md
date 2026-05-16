@@ -1,49 +1,58 @@
-# Ariyaman Debnath
+<div align="center">
 
-**Full-Stack Engineer** — TypeScript, backend systems, and product-focused web apps.
+──  ARIYAMAN DEBNATH ──
 
-I'm a self-taught developer from Agartala, India. I build full-stack applications end-to-end — from backend architecture and infra to polished frontend experiences. I’m especially interested in developer tools, web infrastructure, and AI-powered products.
+**Full-Stack Engineer // Systems & Product**
 
-&nbsp;
+`📍 India` • `💻 Self-Taught` • `🚀 Building Web Infra, DevTools & AI`
 
-## Work
+I architect full-stack applications end to end — from async distributed build pipelines to high-fidelity frontend experiences. If it's slow, I optimize it. If it's bloated, I strip it down.
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [**Shipyard**](https://github.com/ArDnath/Shipyard) | Distributed deployment platform inspired by Vercel — async build workers, queue-based processing, edge routing, and Terraform-based infra | Hono · Bun · Next.js 15 · Cloudflare Workers · Redis · Drizzle · Terraform |
-| [**TubeBrief**](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.aryamn.space/) | AI-powered YouTube summarizer with a live public app | Next.js · TypeScript · AI APIs |
-| [**Cashlatics**](https://github.com/ArDnath/cashlatics) · [Live](https://cashlatics.aryamn.space) | Finance/productivity web app with a public deployment | Next.js · TypeScript |
-| [**Mandi**](https://github.com/ArDnath-Labs/Mandi) |[Live](https://mandi.aryamn.space) |  E-commerce platform focused on clean architecture and maintainable code structure | Next.js · Prisma · Zustand · TypeScript |
-
-&nbsp;
-
-## Stack
-
-```txt
-Language    TypeScript
-Runtime     Bun · Node.js
-Frontend    React · Next.js · TailwindCSS
-Backend     Hono · REST · tRPC
-Database    PostgreSQL · Drizzle · Prisma · Redis
-Infra       Cloudflare Workers · AWS · Terraform · Docker
-```
-
-&nbsp;
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArDnath&show_icons=true&hide_border=true&bg_color=ffffff&title_color=171717&icon_color=171717&text_color=525252&hide_rank=true&include_all_commits=true)
-
-&nbsp;
-
-## Contact
-
-🟢 **Open to work** — full-time, contract, and remote roles.
-
-[![Portfolio](https://img.shields.io/badge/aryamn.space-black?style=flat-square&logo=vercel)](https://aryamn.space)
-[![GitHub](https://img.shields.io/badge/ArDnath-black?style=flat-square&logo=github)](https://github.com/ArDnath)
-[![X](https://img.shields.io/badge/@AriyamanDe12__24-black?style=flat-square&logo=x)](https://twitter.com/AriyamanDe12_24)
+</div>
 
 ---
 
-<sub>Still learning. Always building.</sub>
+## 🛠️ The Stack
+
+```yaml
+core:     [TypeScript, Go, Rust]
+runtimes: [Bun, Node.js]
+frontend: [Next.js 15, React, TailwindCSS, Zustand]
+backend:  [Hono, tRPC, REST APIs]
+storage:  [PostgreSQL, Redis, Drizzle ORM, Prisma]
+infra:    [Cloudflare Workers, AWS, Terraform, Docker, Linux]
+```
+
+---
+
+## 📂 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [🚢 Shipyard](https://github.com/ArDnath/Shipyard) | Distributed deployment platform inspired by Vercel | Hono · Bun · Next.js · Redis · Cloudflare Workers · Terraform |
+| [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.aryamn.space/) | AI-powered YouTube summarization app | Next.js · TypeScript · LLM APIs |
+| [💳 Cashlatics](https://github.com/ArDnath/cashlatics) · [Live](https://cashlatics.vercel.app) | Finance-focused product with a live deployment | Next.js · TypeScript · Tailwind |
+| [🛒 Mandi](https://github.com/ArDnath-Labs/Mandi) · [Live](https://mandi.aryamn.space) | Clean-architecture e-commerce app | Next.js · Prisma · Zustand |
+
+---
+
+## 📈 Activity & Telemetry
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArDnath&theme=dark&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+
+</div>
+
+---
+
+## 🌐 Signal Availability
+
+<div align="center">
+
+ **STATUS: OPEN TO OFFERS**  
+Full-Time • Contract • Remote
+
+`ctrl+d // Still learning. Always building.`
+
+</div>
