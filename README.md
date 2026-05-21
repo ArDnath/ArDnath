@@ -15,7 +15,7 @@ I architect full-stack applications end to end — from async distributed build 
 ## 🛠️ The Stack
 
 ```yaml
-core:     [TypeScript, Go, Rust]
+core:     [TypeScript, Go]
 runtimes: [Bun, Node.js]
 frontend: [Next.js 15, React, TailwindCSS, Zustand]
 backend:  [Hono, tRPC, REST APIs]
