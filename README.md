@@ -8,6 +8,8 @@
 
 I architect full-stack applications end to end — from async distributed build pipelines to high-fidelity frontend experiences. If it's slow, I optimize it. If it's bloated, I strip it down.
 
+Check me out here - www.ariyaman.in
+
 </div>
 
 ---
