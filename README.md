@@ -43,7 +43,7 @@ Check me out here - www.ariyaman.in
 |---|---|---|
 | [🚢 Shipyard](https://github.com/ArDnath/Shipyard) | Distributed deployment platform inspired by Vercel | Hono · Bun · Next.js · Redis · Cloudflare Workers · Terraform |
 | [⛩️ Animap](https://github.com/ArDnath/Animap) · [Live](https://animap.ariyaman.in/) | Stateless anime discovery platform | Nextjs · Graphql · turborepo | 
-| [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.ariyaman.in/) | AI-powered YouTube summarization app | Next.js · TypeScript · LLM APIs |
+| [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.ariyaman.in/) | AI-powered YouTube summarization app |  Hono · Bun · Next.js · Cloudflare |
 | [💳 Cashlatics](https://github.com/ArDnath/cashlatics) · [Live](https://cashlatics.ariyaman.in) | Finance-focused product with a live deployment | Next.js · TypeScript · Tailwind |
 | [🛒 Mandi](https://github.com/ArDnath-Labs/Mandi) · [Live](https://mandi.ariyaman.in) | Clean-architecture e-commerce app | Next.js · Prisma · Zustand |
 
