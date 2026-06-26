@@ -4,11 +4,13 @@
 
 **Full-Stack Engineer // Systems & Product**
 
-`📍 India` • `💻 Self-Taught` • `🚀 Building Web Infra, DevTools & AI`
+`📍 India` • `🚀 Building Web Infra, DevTools & AI`
 
 I architect full-stack applications end to end — from async distributed build pipelines to high-fidelity frontend experiences. If it's slow, I optimize it. If it's bloated, I strip it down.
 
-Check me out here - www.ariyaman.in
+Currently @[Plucia.com](https://www.plucia.com) as Co-Founder & CTO.
+
+Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 </div>
 
