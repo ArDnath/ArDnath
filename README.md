@@ -2,17 +2,25 @@
 
 ──  ARIYAMAN DEBNATH ──
 
-**Full-Stack Engineer // Systems & Product**
+**Full-Stack Engineer // Co-Founder & CTO @ Plucia**
 
 `📍 India` • `🚀 Building Web Infra, DevTools & AI`
 
 I architect full-stack applications end to end — from async distributed build pipelines to high-fidelity frontend experiences. If it's slow, I optimize it. If it's bloated, I strip it down.
 
-Currently building [Plucia.com](https://www.plucia.com) 
+Currently building and scaling **[Plucia](https://www.plucia.com)** as Co-Founder & CTO
 
 Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 </div>
+
+---
+
+## 🚀 What I'm Building
+
+**[Plucia](https://www.plucia.com)** — Co-Founder & CTO
+
+Leading product architecture, engineering strategy, and the full-stack build — from infra decisions to shipping features. Building the technical foundation from the ground up.
 
 ---
 
@@ -37,15 +45,17 @@ Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 📂 Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| [🌱 Plucia](https://www.plucia.com) | Co-Founder & CTO — building the product and platform from the ground up | Next.js · TypeScript · Full-Stack |
 | [🚢 Shipyard](https://github.com/ArDnath/Shipyard) | Distributed deployment platform inspired by Vercel | Hono · Bun · Next.js · Redis · Cloudflare Workers · Terraform |
-| [⛩️ Animap](https://github.com/ArDnath/Animap) · [Live](https://animap.ariyaman.in/) | Stateless anime discovery platform | Nextjs · Graphql · turborepo | 
-| [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.ariyaman.in/) | AI-powered YouTube summarization app |  Hono · Bun · Next.js · Cloudflare |
+| [⛩️ Animap](https://github.com/ArDnath/Animap) · [Live](https://animap.ariyaman.in/) | Stateless anime discovery platform | Next.js · GraphQL · Turborepo |
+| [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.ariyaman.in/) | AI-powered YouTube summarization app | Hono · Bun · Next.js · Cloudflare |
 | [💳 Cashlatics](https://github.com/ArDnath/cashlatics) · [Live](https://cashlatics.ariyaman.in) | Finance-focused product with a live deployment | Next.js · TypeScript · Tailwind |
 | [🛒 Mandi](https://github.com/ArDnath-Labs/Mandi) · [Live](https://mandi.ariyaman.in) | Clean-architecture e-commerce app | Next.js · Prisma · Zustand |
 
@@ -65,8 +75,9 @@ Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 <div align="center">
 
- **STATUS: OPEN TO OFFERS**  
-Full-Time • Contract • Remote
+**STATUS: BUILDING PLUCIA**
+
+Co-Founder & CTO • Open to select advisory / collaboration opportunities
 
 `ctrl+d // Still learning. Always building.`
 
