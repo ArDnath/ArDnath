@@ -52,7 +52,7 @@ Leading product architecture, engineering strategy, and the full-stack build —
 
 | Project | What it is | Stack |
 |---|---|---|
-| [🌱 Plucia](https://www.plucia.com) | Co-Founder & CTO — building the product and platform from the ground up | Next.js · TypeScript · Full-Stack |
+| [🌱 Plucia](https://plucia.com/) | Co-Founder & CTO — building the product and platform from the ground up | Next.js · TypeScript · Full-Stack |
 | [🚢 Shipyard](https://github.com/ArDnath/Shipyard) | Distributed deployment platform inspired by Vercel | Hono · Bun · Next.js · Redis · Cloudflare Workers · Terraform |
 | [⛩️ Animap](https://github.com/ArDnath/Animap) · [Live](https://animap.ariyaman.in/) | Stateless anime discovery platform | Next.js · GraphQL · Turborepo |
 | [📝 TubeBrief](https://github.com/ArDnath/TubeBrief) · [Live](https://tubebrief.ariyaman.in/) | AI-powered YouTube summarization app | Hono · Bun · Next.js · Cloudflare |
