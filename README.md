@@ -2,7 +2,7 @@
 
 ──  ARIYAMAN DEBNATH ──
 
-**Full-Stack Engineer // Co-Founder & CTO @ Plucia**
+**Full-Stack Engineer // AI Engineer**
 
 `📍 India` • `🚀 Building Web Infra, DevTools & AI`
 
