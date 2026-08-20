@@ -14,7 +14,8 @@ Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 
 ## 🛠️ The Stack
-```
+---
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
