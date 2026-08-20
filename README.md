@@ -2,7 +2,7 @@
 
 ──  ARIYAMAN DEBNATH ──
 
-**Full-Stack Engineer // AI Engineer**
+**Full-Stack Engineer // AI Engineer // DevOps Engineer**
 
 `📍 India` • `🚀 Building Web Infra, DevTools & AI`
 
