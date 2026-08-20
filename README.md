@@ -8,21 +8,10 @@
 
 I architect full-stack applications end to end — from async distributed build pipelines to high-fidelity frontend experiences. If it's slow, I optimize it. If it's bloated, I strip it down.
 
-Currently building and scaling **[Plucia](https://plucia.com/)** as Co-Founder & CTO
-
 Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 </div>
 
----
-
-## 🚀 What I'm Building
-
-**[Plucia](https://plucia.com/)** — Co-Founder & CTO
-
-Leading product architecture, engineering strategy, and the full-stack build — from infra decisions to shipping features. Building the technical foundation from the ground up.
-
----
 
 ## 🛠️ The Stack
 
