@@ -65,9 +65,9 @@ Check me out here - [www.ariyaman.in](https://www.ariyaman.in)
 
 <div align="center">
 
-**STATUS: BUILDING PLUCIA**
+**STATUS: BUILDING tartly.in**
 
-Co-Founder & CTO • Open to select advisory / collaboration opportunities
+Open to select advisory / collaboration opportunities
 
 `ctrl+d // Still learning. Always building.`
 
